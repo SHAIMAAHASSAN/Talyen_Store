@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506140763138",
+    "project_id": "talyen-store",
+    "storage_bucket": "talyen-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506140763138:android:99d8b524fcddd8bb09731b",
+        "android_client_info": {
+          "package_name": "com.example.talyen_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YIdWQeNb_EnE_bA9KtDqaHOGQhKIS_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
